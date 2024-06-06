@@ -4,18 +4,14 @@
         <title>Mintpay - Buy Now, Pay Later</title>
         <item>
             <title>Version 1.6.9</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Mon, 16 Jan 2022 12:00:00 +0000</pubDate>
-            <sparkle:version>1.6.9</sparkle:version>
-            <enclosure url="https://apps.apple.com/lk/app/mintpay-shop-now-pay-later/id1587093030" sparkle:version="1.6.9" sparkle:os="ios" />
+            <sparkle:version>2.0.0</sparkle:version>
+            <enclosure url="https://apps.apple.com/lk/app/mintpay-shop-now-pay-later/id1587093030" sparkle:version="1.9.5" sparkle:os="ios" />
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
         </item>
         <item>
             <title>Version 1.6.9</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Mon, 16 Jan 2022 12:00:00 +0000</pubDate>
-            <sparkle:version>1.6.9</sparkle:version>
-            <enclosure url="https://play.google.com/store/apps/details?id=lk.mintpay.app" sparkle:version="1.6.9" sparkle:os="android" />
+            <sparkle:version>2.0.0</sparkle:version>
+            <enclosure url="https://play.google.com/store/apps/details?id=lk.mintpay.app" sparkle:version="1.9.5" sparkle:os="android" />
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
         </item>
     </channel>
