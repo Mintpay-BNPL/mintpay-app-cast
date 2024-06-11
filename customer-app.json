@@ -1,0 +1,12 @@
+[
+    {
+        "os": "ios",
+        "minimumSystemVersion": 13.0,
+        "storeVersion": "1.9.5"
+    },
+    {
+        "os": "android",
+        "minimumSystemVersion": 26.0,
+        "storeVersion": "1.9.5"
+    }
+]
