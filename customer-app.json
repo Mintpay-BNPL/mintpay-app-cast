@@ -1,14 +1,14 @@
 {
-    "storeVersion": "2.0.0",
-    "minimumAppVersion": "1.9.5",
-    "minimumSystemVersion": [
-        {
-            "os": "ios",
-            "version": 13.0
-        },
-        {
-            "os": "android",
-            "version": 26.0
-        }
-    ]
+  "storeVersion": "3.0.4",
+  "minimumAppVersion": "1.9.5",
+  "minimumSystemVersion": [
+    {
+      "os": "ios",
+      "version": 15.5
+    },
+    {
+      "os": "android",
+      "version": 28.0
+    }
+  ]
 }
